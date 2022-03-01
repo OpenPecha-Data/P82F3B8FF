@@ -1,0 +1,10 @@
+id: abce1c4524b54f41a9a51cb68d2dad2e
+annotation_type: index
+revision: '00001'
+annotations:
+  e119eec33755489b87a2780e8cfa4dc9:
+    work_id: WBD252419
+    span:
+      vol: .txt
+      start: 0
+      end: 0
